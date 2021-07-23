@@ -1,0 +1,1 @@
+This .slq file is used to auto-generate the Databases and insert information into them.
